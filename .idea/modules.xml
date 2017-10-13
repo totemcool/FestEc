@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FestEc.iml" filepath="$PROJECT_DIR$/FestEc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mxj/mxj.iml" filepath="$PROJECT_DIR$/mxj/mxj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mxj-annotations/mxj-annotations.iml" filepath="$PROJECT_DIR$/mxj-annotations/mxj-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mxj-compiler/mxj-compiler.iml" filepath="$PROJECT_DIR$/mxj-compiler/mxj-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mxj-core/mxj-core.iml" filepath="$PROJECT_DIR$/mxj-core/mxj-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mxj-ec/mxj-ec.iml" filepath="$PROJECT_DIR$/mxj-ec/mxj-ec.iml" />
+    </modules>
+  </component>
+</project>

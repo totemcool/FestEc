@@ -1,0 +1,1 @@
+include ':mxj', ':mxj-annotations', ':mxj-compiler', ':mxj-core', ':mxj-ec'
